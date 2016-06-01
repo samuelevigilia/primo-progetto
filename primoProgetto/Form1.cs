@@ -19,7 +19,7 @@ namespace primoProgetto
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("ciao: " + textBox1.Text);
+            MessageBox.Show("ciao tu: " + textBox1.Text);
         }
     }
 }
